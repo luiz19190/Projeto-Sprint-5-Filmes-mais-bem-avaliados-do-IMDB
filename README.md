@@ -28,3 +28,8 @@ O dashboard oferece uma visão analítica sobre a evolução da qualidade cinema
 * `data/`: Pasta contendo o dataset CSV.
 * `notebooks/`: Notebooks Jupyter utilizados para a fase de exploração (EDA).
 * `.streamlit/`: Configurações de servidor para o deploy no Render.
+
+# 🎬 Dashboard no Render (link)
+
+### 🌐 Acesse o Aplicativo Online:
+👉 Acesse o dashboard interativo aqui: [https://projeto-sprint-5-filmes-mais-bem.onrender.com/](https://projeto-sprint-5-filmes-mais-bem.onrender.com/)
